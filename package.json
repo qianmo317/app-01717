@@ -1,0 +1,28 @@
+{
+  "name": "app-01717-winter",
+  "version": "1.0.0",
+  "description": "```bash\r # 构建并启动\r docker compose up --build -d",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "vitest",
+    "test:run": "vitest run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qianmo317/app-01717.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/qianmo317/app-01717/issues"
+  },
+  "homepage": "https://github.com/qianmo317/app-01717#readme",
+  "devDependencies": {
+    "vitest": "^4.1.8"
+  }
+}
