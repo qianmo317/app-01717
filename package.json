@@ -1,0 +1,14 @@
+{
+  "name": "bid-calculator",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "投标报价计算器 - 核心评分逻辑测试",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^1.6.0"
+  }
+}
